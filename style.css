@@ -1,3 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
 body{
     font-family: Helvetica Neue, Arial;
      font-size: 19px;
@@ -8,19 +14,25 @@ h1,h2{
 }
 h1{
     font-size: 42px; 
+    margin-bottom: 20px;
+    
 }
 
 h2{
     font-size: 30px;
+    margin-bottom: 8px
 }
 
 .main-text{
-    text-align: justify
+    text-align: justify;
+    margin-bottom: 20px
 }
 
 .author-text{
     font-family: fantasy;
-    font-size: 25px
+    font-size: 25px;
+    margin-top: 5px;
 }
+
 
 

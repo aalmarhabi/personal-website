@@ -1,10 +1,10 @@
 body{
     font-family: Helvetica Neue, Arial;
-    font-size: 19px;
+     font-size: 19px;
 }
 
 h1,h2{
-    color: rgba(11, 142, 142, 0.82);
+    color: rgba(14, 126, 126, 0.82);
 }
 h1{
     font-size: 42px; 
@@ -13,9 +13,14 @@ h1{
 h2{
     font-size: 30px;
 }
-p {
-   
-    text-align: justify;
-    
+
+.main-text{
+    text-align: justify
 }
+
+.author-text{
+    font-family: fantasy;
+    font-size: 25px
+}
+
 
